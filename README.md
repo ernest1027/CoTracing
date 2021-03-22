@@ -2,6 +2,8 @@
 
 An web-based COVID-19 contact tracing app using google maps API, firebase and distributed computing (DCP). The app uses your recent locations tracked by your google account to determine whether you have been in close contact with a given database of COVID patients.
 
+<img src="screenshot.png" width="25%" height="25%" />
+
 ## Inspiration
 
 One of the largest dangers of Coronavirus is its ability to spread to others without the carrier ever even displaying any symptoms. CoTracing was made to address the current need for precise and efficient tracking of individuals infected with COVID-19 while also respecting their right to privacy. Using Google’s location services and crowdsourcing, our application allows users to check if they have been in contact with someone who has tested positive and subsequently prompts them to contact a medical professional.
